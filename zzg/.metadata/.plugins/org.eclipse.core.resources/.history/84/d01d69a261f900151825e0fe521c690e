@@ -1,0 +1,9 @@
+package test1;
+
+public class HelloWorld {
+	public static int main(int argc, char []argv)
+	{
+		System.out.println("HEllO WORLD");
+	}
+}
+
